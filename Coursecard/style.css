@@ -1,0 +1,24 @@
+.card {
+    width: 280px;
+    padding: 1rem;
+    border: 1px solid #e2e8f0;
+    border-left-width: 6px;
+    border-radius: 12px;
+    box-sizing: border-box;
+    transition: all 0.2s;
+}
+
+
+.BCA {
+    border-left-color: #1a56db;
+}
+
+.CSIT {
+    border-left-color: #0e9f6e;
+}
+
+.BIT {
+    border-left-color: #ea580c;
+    transform: translate(-4px);
+    box-shadow: 2px blue;
+}
